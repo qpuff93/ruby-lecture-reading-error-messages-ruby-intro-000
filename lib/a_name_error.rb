@@ -1,4 +1,4 @@
 "hello world"
 
 puts 'hello_world'
-end
+ruby lib/a_name_error.rb
